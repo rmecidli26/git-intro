@@ -1,6 +1,10 @@
-<<<<<<< HEAD
+
 Message from main branch
-=======
+
 Message from feature branch
->>>>>>> feature-greeting
+
+
 Salam, bu fərqli mətndir
+
+u main-dəki yeni mətndir
+
