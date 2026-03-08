@@ -3,4 +3,4 @@ Message from main branch
 =======
 Message from feature branch
 >>>>>>> feature-greeting
-u main budagindaki mesajdir
+u main-dəki yeni mətndir
